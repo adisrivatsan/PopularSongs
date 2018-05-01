@@ -1,0 +1,13 @@
+Region,Cluster,Model,RMSE
+US,0,MLP,0.514688
+Global,0,MLP,0.477263
+US,1,MLP,0.753324
+Global,1,MLP,0.596996
+US,0,SGD,0.422378
+Global,0,SGD,0.630892
+US,1,SGD,0.518753
+Global,1,SGD,0.626867
+US,0,MLP (no reg),0.58086
+Global,0,MLP (no reg),0.648624
+US,1,MLP (no reg),0.757646
+Global,1,MLP (no reg),0.772469
